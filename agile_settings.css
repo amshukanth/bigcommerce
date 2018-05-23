@@ -1,0 +1,49 @@
+/*Contact sectiom*/
+.content-header{
+  font-family: 'Roboto', sans-serif;
+  color:#fcc500;
+  font-size: 45px;
+}
+
+.section-content{
+  text-align: center; 
+}
+
+#section-settings{
+  font-family: 'Roboto', sans-serif;
+  padding-top: 10px;
+  height: 653px; 
+}
+.settings-section{
+  padding-top: 40px;
+}
+.settings-section .col-md-6{
+  width: 50%;
+}
+
+.form-line{
+  border-right: 1px solid #B29999;
+}
+
+.form-group{
+  margin-top: 10px;
+}
+
+label{
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: normal;
+}
+
+.form-control{
+  font-size: 1.3em;
+  color: #080808;
+}
+
+.submit{
+  font-size: 1.1em;
+  float: left;
+  width: 150px;
+  background-color: darkcyan;
+  color: #fff;
+}
